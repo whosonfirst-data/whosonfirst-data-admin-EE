@@ -28,11 +28,11 @@
     "src:geom":"ee-mamt",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85682995,
         102191581,
-        1713312435,
         85633135,
-        1713305675
+        1713305675,
+        1713312435,
+        85682995
     ],
     "wof:breaches":[],
     "wof:coterminous":[
@@ -58,7 +58,7 @@
     "wof:lang_x_spoken":[
         "est"
     ],
-    "wof:lastmodified":1596661174,
+    "wof:lastmodified":1723224134,
     "wof:name":"M\u00e4rja",
     "wof:parent_id":1713312435,
     "wof:placetype":"locality",
