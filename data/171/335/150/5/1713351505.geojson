@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "M\u00e4rja"
     ],
+    "name:eng_x_variant":[
+        "Marja"
+    ],
     "name:est_x_preferred":[
         "M\u00e4rja"
     ],
@@ -59,7 +62,7 @@
         "est"
     ],
     "wof:lastmodified":1723224134,
-    "wof:name":"M\u00e4rja",
+    "wof:name":"Marja",
     "wof:parent_id":1713312435,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ee",
